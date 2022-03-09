@@ -1,0 +1,7 @@
+torch
+transformers
+speech_recognition
+pydub
+fastapi
+"uvicorn[standard]"
+
